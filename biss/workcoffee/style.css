@@ -1,0 +1,102 @@
+#Biniam{
+
+    img{
+        height: 300px;
+        border-radius: 50%;
+        border: 12px dotted rgb(255, 85, 0);
+        padding: 10px 10px 20px 20px;
+        margin: 20px 20px 15px 10px;
+        }
+
+
+
+
+
+}
+
+h1{text-align: center;
+font-size: 65px;color: rgb(230, 157, 69);
+color: rgba(8, 7, 7, 0.459);
+
+}
+
+body 
+{background-color: rgb(54, 109, 164);}
+
+.drinkmenu{width: 100%;
+display:flex; 
+justify-content: right;
+justify-content: space-around;
+background-color: rgb(30, 216, 58);
+
+}
+
+.drinkmenu a{font-size: xx-large; color: rgb(57, 57, 165);
+text-decoration: none;
+
+
+}
+.row{
+display: flex;
+}
+p{text-align: center;
+font-size: x-large;
+font-weight: unset;
+border: 5px solid olivedrab;
+background-color: rgb(209, 237, 21);
+}
+
+
+
+
+.column{
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.coffeebar{
+    width: 100%; 
+display: flex;
+justify-content: center;
+align-items: center;
+height: 85vh;
+padding:5px;
+
+
+}
+
+
+
+
+
+.menuimages{width: 50%;
+height: 50%;}
+
+#Biniam{text-align: center;color: rgb(9, 54, 28);
+    font-size: 25px;
+
+   
+
+}.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 30px;
+    background-color: #54a020;
+    border-top: 5px solid rgb(247, 247, 49);
+}
+.footer a{text-decoration: none;
+color: cornsilk;} 
+
+
+
+
+
+
+
+
+    
